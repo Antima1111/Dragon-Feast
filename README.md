@@ -136,12 +136,13 @@ Some possible future enhancements include:
 
 ## 👩‍💻 Project Information
 
-**Project:** Dragon Feast
-**Type:** Mini Project
-**Domain:** Game Development
-**Language:** Python
-**Library:** Pygame
-**Developer:** Antima Prajapati
+Project: Dragon Feast
+Type: Mini Project
+Domain: Game Development
+Language: Python
+Library: Pygame
+Developer: Antima Prajapati
+
 
 ---
 
